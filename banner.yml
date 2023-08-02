@@ -1,15 +1,15 @@
-title: 
-description: 
+title: Wisdom Proxies
+description: "Wisdom Proxie leads us to Infinite Evolution and is essential for membership in Wisdom council where the community shapes the project's future. Holders receive 1000 $PROXIE airdrop per NFT. This collection is bridged between Ergo & Cardano."
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9g6j89dUcuHGpFSmYAivcpGs3zAaREenPCMaQnvGHVnyH3HCQAL
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/Proxies_NFT
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/ExwZfUBC2e
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://proxiesnft.io/
     icon: fa-solid fa-globe fa-fw
